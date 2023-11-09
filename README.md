@@ -1,7 +1,7 @@
 # Project Manager
 
 ## Deployed App 
-[felixwillem.com](https://felixwillem.com/)
+
 
 ## App Repo 
 https://github.com/FelixW01/project-manager
