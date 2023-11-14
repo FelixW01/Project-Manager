@@ -16,7 +16,7 @@ A drag & drop project manager application created with TypeScript.
 ## App Demo
 ![1](https://github.com/FelixW01/Project-Manager/assets/90164142/1417fcc8-cbd6-4abb-9054-368fd35d652f)
 
-### Drag finished project towards the finished project box.
+### Drag finished projects towards the finished projects box.
 
 ![2](https://github.com/FelixW01/Project-Manager/assets/90164142/9ae3aaf9-36bb-4825-85ee-42eeede522ab)
 
